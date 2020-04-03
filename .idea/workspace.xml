@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd085cb4-2c0a-4365-922b-a824ac362d8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zb1YJkl4dAElJ48gu7yU3eIFB4" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Verify invalid login from mesenger page">
+    <configuration name="Scenario: Verify invalid login from mesenger page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Messenger.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumerBDDFramework_20" />
+      <option name="NAME_FILTER" value="^Verify invalid login from mesenger page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify invalid login from mesenger page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify invalid login from mesenger page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumerBDDFramework_20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runnerTest" />
+      <option name="MAIN_CLASS_NAME" value="runnerTest.TestRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumerBDDFramework_20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runnerTest.webPages" />
+      <option name="MAIN_CLASS_NAME" value="runnerTest.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumerBDDFramework_20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerTest.webPages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runnerTest.webPages" />
+      <option name="MAIN_CLASS_NAME" value="runnerTest.webPages.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Verify invalid login from mesenger page" />
+        <item itemvalue="JUnit.TestRun" />
+        <item itemvalue="JUnit.TestRunner (1)" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd085cb4-2c0a-4365-922b-a824ac362d8a" name="Default Changelist" comment="" />
+      <created>1585093025715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585093025715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="84" key="#Project_Structure" timestamp="1585611304402">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="310" y="84" key="#Project_Structure/0.23.1440.826@0.23.1440.826" timestamp="1585611304402" />
+    <state x="424" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585696598015">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="424" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.826@0.23.1440.826" timestamp="1585696598015" />
+    <state x="523" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1585357983801">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="523" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.825@0.23.1440.825" timestamp="1585357983801" />
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom" timestamp="1585400493135">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1585400493135" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1585357628743" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1585358025903" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1585358243591" />
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1585359392326" />
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585359420175" />
+    <state width="1358" height="200" key="GridCell.Tab.0.center" timestamp="1585400493135">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1585400493135" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1585357628743" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1585358025902" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1585358243590" />
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1585359392325" />
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1585359420173" />
+    <state width="1358" height="200" key="GridCell.Tab.0.left" timestamp="1585400493135">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1585400493135" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1585357628742" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1585358025900" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1585358243589" />
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1585359392325" />
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1585359420173" />
+    <state width="1358" height="200" key="GridCell.Tab.0.right" timestamp="1585400493135">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1585400493135" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1585357628743" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1585358025902" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1585358243590" />
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1585359392325" />
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1585359420174" />
+    <state x="258" y="91" key="Maven.ArtifactSearchDialog" timestamp="1585358961913">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="258" y="91" key="Maven.ArtifactSearchDialog/0.23.1440.824@0.23.1440.824" timestamp="1585356535404" />
+    <state x="258" y="91" key="Maven.ArtifactSearchDialog/0.23.1440.825@0.23.1440.825" timestamp="1585357997251" />
+    <state x="258" y="91" key="Maven.ArtifactSearchDialog/0.23.1440.828@0.23.1440.828" timestamp="1585358961913" />
+    <state x="221" y="66" key="SettingsEditor" timestamp="1585358432364">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="221" y="66" key="SettingsEditor/0.23.1440.824@0.23.1440.824" timestamp="1585356386683" />
+    <state x="221" y="66" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1585356299542" />
+    <state x="221" y="66" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1585358432364" />
+    <state x="374" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1585946785534">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="374" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1585350352022" />
+    <state x="374" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1585695788462" />
+    <state x="374" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1585946785534" />
+    <state x="374" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1585095640024" />
+    <state x="87" y="119" key="new project wizard" timestamp="1585616451679">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="87" y="119" key="new project wizard/0.23.1440.828@0.23.1440.828" timestamp="1585616451679" />
+    <state x="385" y="194" width="670" height="675" key="run.anything.popup" timestamp="1585355578525">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="385" y="194" width="670" height="675" key="run.anything.popup/0.23.1440.825@0.23.1440.825" timestamp="1585355578525" />
+  </component>
+</project>
